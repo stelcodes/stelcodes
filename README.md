@@ -6,4 +6,4 @@ Hello! I'm Stel. I'm a software developer, musician, and more. A little bit abou
 - 🛠️ I love my tools. I'm obsessed with configuring. I use Neovim, Kitty, i3, and Sway on Fedora Linux for pretty much all my machines.
 - 📖 Open source is rad. I love contributing to projects with issues, PRs, code review.
 - 📫 You can reach me here: stel @ stel.codes
-- 🌈 My pronouns are they/them. Trans rights are human rights!
+- 🌈 My pronouns are they/them. I'm very passionate about transgender people's right to exist in the world.
